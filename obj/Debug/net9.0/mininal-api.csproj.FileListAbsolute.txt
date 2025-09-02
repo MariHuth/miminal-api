@@ -1,0 +1,7 @@
+C:\Users\Kauã\miminal-api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Kauã\miminal-api\obj\Debug\net9.0\mininal-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauã\miminal-api\obj\Debug\net9.0\mininal-api.AssemblyInfoInputs.cache
+C:\Users\Kauã\miminal-api\obj\Debug\net9.0\mininal-api.AssemblyInfo.cs
+C:\Users\Kauã\miminal-api\obj\Debug\net9.0\mininal-api.csproj.CoreCompileInputs.cache
+C:\Users\Kauã\miminal-api\obj\Debug\net9.0\mininal-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kauã\miminal-api\obj\Debug\net9.0\mininal-api.csproj.AssemblyReference.cache
