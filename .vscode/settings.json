@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.commandsToSkipShell": [
+        "dotnet adicionar pacote Pomelo.EntityFrameworkCore.MySql --versão 9.0.0"
+    ]
+}
